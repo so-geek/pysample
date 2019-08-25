@@ -9,6 +9,9 @@ flake8 = "*"
 
 [packages]
 tensorflow = "*"
+keras = "*"
+numpy = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.6"
