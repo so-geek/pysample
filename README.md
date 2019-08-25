@@ -62,11 +62,15 @@ python3 mnist.py
 
 #### Dependencyの場合
 
+`tensorflow` を追加する場合は以下。
+
 ```bash
 pipenv install tensorflow
 ```
 
 #### Development Dependencyの場合
+
+`flake8` を追加する場合は以下。
 
 ```bash
 pipenv install flake8 --dev
