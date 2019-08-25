@@ -1,6 +1,6 @@
-# sample-tensorflow
+# Sample project for Python3
 
-Sample for Tensorflow
+Sample project for Python3
 
 ## 開発環境構築
 
@@ -18,6 +18,12 @@ code --install-extension ms-python.python
 
 # japanese
 code --install-extension ms-ceintl.vscode-language-pack-ja
+
+# spell
+code --install-extension streetsidesoftware.code-spell-checker
+
+# icon
+code --install-extension vscode-icons-team.vscode-icons
 
 # git
 code --install-extension mhutchie.git-graph
