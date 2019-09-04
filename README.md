@@ -49,7 +49,7 @@ pipenv --python 3
 #### 仮想環境のアクティベート
 
 ```bash
-python3 -m pipenv shell
+pipenv shell
 ```
 
 #### Pipfileからのパッケージ復元
