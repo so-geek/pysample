@@ -4,6 +4,9 @@
     "words": [
         "keras",
         "relu",
+        "numpy",
+        "pyplot",
+        "sklearn",
         "mnist"
     ]
 }
