@@ -7,6 +7,8 @@
         "numpy",
         "pyplot",
         "sklearn",
+        "pipenv",
+        "tensorflow",
         "mnist"
     ]
 }
